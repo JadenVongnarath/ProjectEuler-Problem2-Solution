@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[103]:
-
-
 def fibonacci_sequence(fibonacci_start, fibonacci_next, fibonacci_nth):
 # This is a function of the sequence where fibonacci_start is the initial value of the sequence, fibonacci_next is
 # the next number to be added to fibonacci_start, and fibonacci_nth determines how many values in the sequence will
@@ -29,4 +23,3 @@ fibonacci_sequence(0, 1, 100)
 # fibonacci_next MUST be 1 because (fibonacci_nth = 0) + 1 = first value =  1. 
 # These values change in the function.
 # fibonacci_nth is an arbitrary value.
-
